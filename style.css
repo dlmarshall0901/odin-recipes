@@ -1,0 +1,31 @@
+body {
+    width: 600px;
+}
+
+.header {
+    text-align: center;
+    color: white;
+    background-color: darkorange;
+    margin: auto;
+    width: 400px;
+    padding-top: 10px;
+    border-bottom: 4px solid black;
+}
+
+.home {
+    background-color: darkorange;
+    width: 40px;
+    padding: 10px;
+    outline: 2px solid black;
+}
+
+img {
+    margin: 30px;
+    border: 4px solid black;
+    width: 300px;
+    height: auto;
+}
+
+ul {
+    padding-left: 25%;
+}
